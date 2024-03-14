@@ -1,8 +1,8 @@
 # Memo
-[git](git)
+[git](git.md)
 
-[gdb](gdb)
+[gdb](gdb.md)
 
-[valgrind](valgrind)
+[valgrind](valgrind.md)
 
-[strace](strace)
+[strace](strac.md)

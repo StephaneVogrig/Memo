@@ -1,4 +1,4 @@
-[home](README) - [gdb](gdb) - [git](git) - [strace](strace) - [valgrind](valgrind)
+[home](README.md) - [gdb](gdb.md) - [git](git.md) - [strace](strace.md) - [valgrind](valgrind.md)
 ***
 
 ### Interface graphique
