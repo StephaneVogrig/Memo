@@ -10,7 +10,7 @@
 
 # Tutos
 
-[nicelydev.com](https://www.nicelydev.com/git/git-show)
+[nicelydev.com](https://www.nicelydev.com/git/git-show)  
 [Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR)
 
 # Status
