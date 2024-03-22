@@ -12,6 +12,7 @@
 
 [nicelydev.com](https://www.nicelydev.com/git/git-show)  
 [Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR)
+[buzut.net](https://buzut.net/cours/versioning-avec-git/depots-distants)
 
 # Status
 
@@ -93,7 +94,7 @@ git branch
 git switch <name_branch>
 ```
 
-### Create a branch
+### Create a branch locale
 
 - without move onto 
   
@@ -107,9 +108,28 @@ git switch <name_branch>
   git branch <name-of-branch>
   git checkout <name-of-branch>
   ```
-  
   or
-  
   ```bash
   git checkout -b <name_new_branch>
+  ```
+### add a local branch on remote
+```
+git push <remote_name> <branch-name>
+```
+by default `<remote-name>` = origin
+
+### get a remote branch
+
+- simple methode
+  ```
+  git pull <remote-name> <branch-name>
+  ```
+- with the same name as the remote
+  ```bash
+  git checkout --track <remote_name>/<branch-name>
+  ```
+  by default `<remote-name>` = origin
+- with an other name in local
+  ```bash
+  git checkout --track -b <local-branch> origin/<remote-branch>
   ```
