@@ -7,3 +7,5 @@
 - `--show-leak-kinds=all`
 ### File descriptor
 - `--track-fds=yes`
+
+  ### --call
