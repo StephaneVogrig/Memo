@@ -7,5 +7,10 @@
 - `--show-leak-kinds=all`
 ### File descriptor
 - `--track-fds=yes`
+### Errors suppression
+- `--error-limit=no`
+- `--log-file=error.log`
+- `--gen-suppressions=all`
+- `--suppressions=<filename>`
 
-  ### --call
+### --call

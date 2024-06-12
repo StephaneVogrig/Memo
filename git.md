@@ -133,3 +133,13 @@ by default `<remote-name>` = origin
   ```bash
   git checkout --track -b <local-branch> origin/<remote-branch>
   ```
+
+### [merge a branch](https://www.atlassian.com/fr/git/tutorials/using-branches/git-merge)
+- place to branche which store the merge
+```bash
+ git checkout <main_branch>
+```
+- merge branch
+``` bash
+git merge <branch to merge>
+```
