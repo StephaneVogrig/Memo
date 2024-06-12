@@ -2,7 +2,7 @@
 
 ***
 
-# Gdb
+# [Gdb](https://sourceware.org/gdb/current/onlinedocs/gdb.html/index.html#Top)
 
 ### Interface graphique
 
