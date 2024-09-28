@@ -1,4 +1,4 @@
-[home](README.md) - [gdb](gdb.md) - [git](git.md) - [strace](strace.md) - [valgrind](valgrind.md)
+[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [makefile](makefile.md) - [strace](strace.md) - [objdump](objdump.md)
 
 ***
 

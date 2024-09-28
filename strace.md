@@ -1,4 +1,4 @@
-[home](README.md) - [gdb](gdb.md) - [git](git.md) - [strace](strace.md) - [valgrind](valgrind.md)
+[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [makefile](makefile.md) - [objdump](objdump.md)
 ***
 # [strace](https://strace.io/)
 [man en](https://man7.org/linux/man-pages/man1/strace.1.html)  
