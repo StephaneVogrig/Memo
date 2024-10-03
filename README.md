@@ -11,3 +11,5 @@
 [strace](strac.md)
 
 [objdump](objdump.md)
+
+[gprof](gprof.md)
