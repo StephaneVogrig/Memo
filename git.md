@@ -143,3 +143,10 @@ by default `<remote-name>` = origin
 ``` bash
 git merge <branch to merge>
 ```
+
+- merge with squash
+```bash
+git checkout <branch_which_receive_the_merge>
+git merge --squash <branch to merge>
+git commit -m "merged <branch to merge>"
+```
