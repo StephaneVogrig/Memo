@@ -94,7 +94,7 @@ git branch
 git switch <name_branch>
 ```
 
-### Create a branch locale
+### Create a local branch
 
 - without move onto 
   
@@ -112,6 +112,14 @@ git switch <name_branch>
   ```bash
   git checkout -b <name_new_branch>
   ```
+
+### Create a remote  branch
+
+### create a remote branch with a local branch
+```
+git push -u origin <branch-name>
+```
+'-u' is a contraction for '--set-upstream'
 ### add a local branch on remote
 ```
 git push <remote_name> <branch-name>
@@ -142,4 +150,11 @@ by default `<remote-name>` = origin
 - merge branch
 ``` bash
 git merge <branch to merge>
+```
+
+- merge with squash
+```bash
+git checkout <branch_which_receive_the_merge>
+git merge --squash <branch to merge>
+git commit -m "merged <branch to merge>"
 ```
