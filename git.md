@@ -94,7 +94,7 @@ git branch
 git switch <name_branch>
 ```
 
-### Create a branch locale
+### Create a local branch
 
 - without move onto 
   
@@ -112,6 +112,14 @@ git switch <name_branch>
   ```bash
   git checkout -b <name_new_branch>
   ```
+
+### Create a remote  branch
+
+### create a remote branch with a local branch
+```
+git push -u origin <branch-name>
+```
+'-u' is a contraction for '--set-upstream'
 ### add a local branch on remote
 ```
 git push <remote_name> <branch-name>
