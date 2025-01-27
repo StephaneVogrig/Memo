@@ -7,6 +7,7 @@
 - [Tutos](#tutos)
 - [Commit](#commit)
 - [Branch](#branch)
+- [reflog](#reflog)
 
 # Tutos
 
@@ -157,4 +158,11 @@ git merge <branch to merge>
 git checkout <branch_which_receive_the_merge>
 git merge --squash <branch to merge>
 git commit -m "merged <branch to merge>"
+```
+
+# reflog
+Every time the HEAD is modified there will be a new entry in the reflog
+```
+git reflog
+git checkout HEAD@{...}
 ```
