@@ -161,6 +161,9 @@ git commit -m "merged <branch to merge>"
 ```
 
 # reflog
+[stackoverflow: usage example](https://stackoverflow.com/questions/10099258/how-can-i-recover-a-lost-commit-in-git)
+
+
 Every time the HEAD is modified there will be a new entry in the reflog
 ```
 git reflog
