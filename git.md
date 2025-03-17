@@ -7,6 +7,7 @@
 - [Tutos](#tutos)
 - [Commit](#commit)
 - [Branch](#branch)
+- [Log](#log)
 - [reflog](#reflog)
 
 # Tutos
@@ -158,6 +159,23 @@ git merge <branch to merge>
 git checkout <branch_which_receive_the_merge>
 git merge --squash <branch to merge>
 git commit -m "merged <branch to merge>"
+```
+# log
+
+### To display all log
+
+```
+git log --all
+```
+### To display logs one one line
+
+```
+git log --oneline
+```
+### To display log whit graphical branch
+
+```
+git log --graph
 ```
 
 # reflog
