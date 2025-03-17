@@ -1,4 +1,4 @@
-[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [strace](strace.md) - [objdump](objdump.md)
+[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [strace](strace.md) - [objdump](objdump.md) - [linux](linux.md)
 
 # [gprof](https://sourceware.org/binutils/docs-2.18/gprof/index.html)
 ## How to use quickly

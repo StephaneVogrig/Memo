@@ -1,4 +1,4 @@
-[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [makefile](makefile.md) - [strace](strace.md) - [objdump](objdump.md)
+[home](README.md) - [gdb](gdb.md) - [git](git.md) - [valgrind](valgrind.md) - [makefile](makefile.md) - [strace](strace.md) - [objdump](objdump.md) - [linux](linux.md)
 
 ***
 pour creer le profilage :
