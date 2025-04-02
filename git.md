@@ -9,6 +9,7 @@
 - [Branch](#branch)
 - [Log](#log)
 - [reflog](#reflog)
+- [pull request](#reflog)
 
 # Tutos
 
@@ -187,3 +188,6 @@ Every time the HEAD is modified there will be a new entry in the reflog
 git reflog
 git checkout HEAD@{...}
 ```
+
+# pull request
+[pull request](https://www.frayssinet.org/2021/06/25/tuto-debutant-faire-une-pull-request-sur-github-avec-git/)
