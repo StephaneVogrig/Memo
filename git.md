@@ -62,7 +62,10 @@ Go to a commit
 ```bash
 
 ```
-
+#### Annuler le dernier commit (gardant le travail commite)
+```sh
+git reset --soft HEAD~
+```
 ### Display difference
 
 Display diff between last commit and current state of work
